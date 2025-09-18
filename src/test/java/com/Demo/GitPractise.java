@@ -7,6 +7,6 @@ public class GitPractise {
 	@Test
 	public void demo() {
 		
-		System.out.println("Hello");
+		System.out.println("Hello123");
 	}
 }
